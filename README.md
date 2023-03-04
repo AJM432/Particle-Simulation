@@ -11,10 +11,11 @@
 ![](https://img.shields.io/tokei/lines/github/AJM432/Particle-Simulation) 
 ![](https://img.shields.io/github/repo-size/AJM432/Particle-Simulation?style=flat)
 
-
+## Usage
 - Use `config.py` to specify parameters such as FPS, air resistance, particle size and quantity.
 - Utilizes the sweep and prune algorithm for collision detection for better performance when a large number of particles are displayed.
 
+## Demo
 <div align="center">
 
 https://user-images.githubusercontent.com/49791407/222916889-b1638585-0d55-4c89-bed8-6b90060c8eab.mov
